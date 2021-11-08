@@ -1,7 +1,7 @@
 # TelegramChatModerBot
 Telegram Chat Moder Golang
 
-settings.txt
+create settings.txt
  
 {
 	"botToken":"TOKEN",
